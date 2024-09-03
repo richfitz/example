@@ -1,0 +1,13 @@
+# Changes here will be overwritten by Copier
+_commit: 0.6.1
+_src_path: https://github.com/nlesc/python-template.git
+copyright_holder: Imperial College London
+email: rich.fitzjohn@gmail.com
+full_name: Rich FitzJohn
+github_organization: richfitz
+keywords: example, tutorial
+license: MIT
+package_name: example
+package_short_description: An example package.
+template_profile: minimum
+version: 0.1.0
